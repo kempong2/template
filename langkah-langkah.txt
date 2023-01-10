@@ -1,0 +1,22 @@
+$ git config --global user.email "overhoul70@gmail.com"
+
+
+$ git init
+
+
+$ git add .
+
+
+$ git commit -m "PESAN"
+
+
+$ git push -u origin master
+
+
+
+Jika Menambah File
+
+$ git add .
+
+
+$ git commit -m "PESAN"
